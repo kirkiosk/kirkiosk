@@ -1,4 +1,4 @@
-<h3 align="left">Page under work!!! Thanks for your patience😊</h3>
+<h3 align="left">Page under development!!! Thanks for your patience😊</h3>
 <h1 align="center">Hi 👋, I'm Kiran S Pillai</h1>
 <h3 align="center">A Passionate Hardware Security Enthusiast</h3>
 
