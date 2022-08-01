@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran S Pillai</h1>
-<h3 align="center">A passionate cyber seucurity enthusiast</h3>
+<h3 align="center">A Passionate Hardware Security Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirkiosk&label=Profile%20views&color=0e75b6&style=flat" alt="kirkiosk" /> </p>
 
