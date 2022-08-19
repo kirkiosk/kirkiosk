@@ -69,7 +69,18 @@ KIRAN S PILLAI
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirkiosk&theme=gruvbox" />
   </p>
  
+ <!-- -->
+  <p>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kirkiosk&theme=gruvbox" />
+  <!-- CURRENT STREAK -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirkiosk&theme=gruvbox" />
+  </p>
  
+ 
+<!-- -->
+
+![](https://raw.githubusercontent.com/kirkiosk/kirkiosk/d4d07a57ad39ffe57ce0b92f5dd8b29c508a98cf/github-contribution-grid-snake.svg)
+
 
 <!-- LANGUAGES -->
 <h3 align="center">Languages</h3>
