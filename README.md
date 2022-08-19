@@ -16,7 +16,7 @@
 <!-- DETAILS -->
 
 ```console
-NARIKODAN HRIDUL
+KIRAN S PILLAI
 
                      [~KIRAN S PILLAI~]                   
               "[$$$$$$$$$$$$$$$$$$$$$$$$$$$$]"                 Kiran S Pillai
@@ -47,34 +47,29 @@ NARIKODAN HRIDUL
 <br>
 
 <summary><b>Github Profile Details</b></summary>
-  <p><a href="https://github.com/NARIKODANHRIDUL">
+  <p><a href="https://github.com/kirkiosk">
   <!-- A+ -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NARIKODANHRIDUL&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kirkiosk&show_icons=true&theme=gruvbox&hide_border=true" />
   <!-- CURRENT STREAK -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NARIKODANHRIDUL&theme=gruvbox&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kirkiosk&theme=gruvbox&hide_border=true" />
   </a></p>
 '''
 <!-- GRAPH DAYS  -->
 <p>
-<img width=100% src="https://activity-graph.herokuapp.com/graph?username=NARIKODANHRIDUL&custom_title=NARIKODAN%20HRIDUL's%20Contribution%20Graph&theme=react-dark&bg_color=282828&hide_border=true&line=f8bb2f&point=fd7f19&color=88b778" alt="Github Profile Details" align = "center"/>
+<img width=100% src="https://activity-graph.herokuapp.com/graph?username=kirkiosk&custom_title=Kiran%20SPillai's%20Contribution%20Graph&theme=react-dark&bg_color=282828&hide_border=true&line=f8bb2f&point=fd7f19&color=88b778" alt="Github Profile Details" align = "center"/>
 </p>
 <!-- GRAPH IN PAST YEAR -->
 <p>
-<img width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NARIKODANHRIDUL&theme=gruvbox" alt="Github Profile Details" align = "center"/>
+<img width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirkiosk&theme=gruvbox" alt="Github Profile Details" align = "center"/>
 
 <!-- -->
   <p>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NARIKODANHRIDUL&theme=gruvbox" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kirkiosk&theme=gruvbox" />
   <!-- CURRENT STREAK -->
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NARIKODANHRIDUL&theme=gruvbox" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirkiosk&theme=gruvbox" />
   </p>
  
  
-<!-- -->
-
-#![](https://raw.githubusercontent.com/NARIKODANHRIDUL/NARIKODANHRIDUL/d4d07a57ad39ffe57ce0b92f5dd8b29c508a98cf/github-contribution-grid-snake.svg)
-
-'''
 
 <!-- LANGUAGES -->
 <h3 align="center">Languages</h3>
